@@ -3,5 +3,5 @@ however when I tried to upload the files to the Git repo from within R Studio th
 to upload the R code by copying and pasting (just to meet the assignment deadline) but could not get the plots to upload.
 I've now managed to upload the plots by pulling the repo from git to my pc and then adding the plot files (png) and then pushing
 them up to the git repo. The problem is that this has created and additional directory structure where the plot files are now
-stored on the repo. I'm now at a loss as to how I can get the plots from the sub directory upto the main directory in the 
+stored on the repo (Documents\coursera_work\..). I'm now at a loss as to how I can get the plots from the sub directory upto the main directory in the 
 repo.
